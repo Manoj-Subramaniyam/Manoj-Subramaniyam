@@ -26,6 +26,5 @@ Technologies & Tools
 ✔ Development Process - Agile Scrum Framework
 ✔ Others - Basic SQL commands, Design Patterns, Agile Methodology, Test Methodologies.
 
-Reach me at,![image]([https://github.com/user-attachments/assets/f81e02b3-0a39-4605-987c-2c42bedb2942](https://www.linkedin.com/in/manoj-subramaniyam/))
 
 
