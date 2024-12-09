@@ -1,4 +1,4 @@
-## Hi there 👋This is Kishore Kumar
+## Hi there 👋This is Manoj Subramaniyam
 Automation Enthusiast | Consistent Learner | Problem Solver | Father 😊
 Test Automation Engineer with a demonstrated history of working in the software industry. Having an overall experience of 5 years in Test Engineering. Working predominantly on the development and maintenance of the test automation framework.
 An aspiring SDET who is looking for opportunities in the QA industry.
